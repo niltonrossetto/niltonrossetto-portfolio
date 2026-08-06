@@ -27,4 +27,4 @@
 
 ## 📫 Connect with me
 
-- LinkedIn
+- - [LinkedIn](https://www.linkedin.com/in/niltonrossetto)
