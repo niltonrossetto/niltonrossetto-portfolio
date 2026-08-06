@@ -28,27 +28,27 @@ Every repository represents a part of my learning path, containing notes, exerci
 
 # 📂 Featured Repositories
 
-### 🐍 Python Fundamentals
+## 🐍 Python Fundamentals
 Learning Python from the basics with notes, exercises, examples, and mini projects.
 
 ---
 
-### 🌿 Git Fundamentals
+## 🌿 Git Fundamentals
 Version control, collaboration workflows, branching, GitHub, and best practices.
 
 ---
 
-### 🌐 HTML Fundamentals
+## 🌐 HTML Fundamentals
 HTML structure, semantic HTML, forms, tables, accessibility, and responsive web foundations.
 
 ---
 
-### 🎨 CSS Fundamentals
+## 🎨 CSS Fundamentals
 Layouts, Flexbox, Grid, animations, responsive design, and modern CSS techniques.
 
 ---
 
-### 🗄 SQL Fundamentals
+## 🗄 SQL Fundamentals
 Database concepts, SQL queries, joins, aggregation, normalization, and relational databases.
 
 ---
@@ -66,13 +66,13 @@ Database concepts, SQL queries, joins, aggregation, normalization, and relationa
 
 # 🛠 Technologies
 
-### Languages
+## Languages
 - Python
 - SQL
 - HTML5
 - CSS3
 
-### Tools
+## Tools
 - Git
 - GitHub
 - Visual Studio Code
