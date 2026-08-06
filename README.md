@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Nilton Rossetto
 
-<!--
-**oliverrossettogh/oliverrossettogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✈️ Cabin Crew @ LATAM Airlines
 
-Here are some ideas to get you started:
+🎓 Software Development Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- 🐍 Python
+- ☁️ Microsoft Azure
+- 🤖 Artificial Intelligence
+- 🗃️ SQL
+- 🌐 Git & GitHub
+
+---
+
+## 🎯 Goals for 2026
+
+- Build real-world projects
+- Improve my programming skills
+- Earn Microsoft Certifications
+- Become a Software Developer
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn
