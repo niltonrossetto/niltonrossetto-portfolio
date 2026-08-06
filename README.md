@@ -14,12 +14,15 @@ I'm passionate about learning new technologies, building practical projects, and
 
 ## 🚀 Currently Learning
 
-- 🐍 Python
-- ☁️ Microsoft Azure
-- 🤖 Artificial Intelligence
-- 🗄️ SQL
 - 🌐 Git & GitHub
 - 💻 HTML & CSS
+- 🐍 Python
+- 🗄️ SQL
+- ☁️ Microsoft Azure
+- 🤖 Artificial Intelligence
+
+
+
 
 ---
 
