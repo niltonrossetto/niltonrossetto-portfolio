@@ -10,6 +10,12 @@ After working in **Aviation** and **Tech Recruitment**, I decided to transition 
 
 ---
 
+# Connect with Me
+
+- LinkedIn: **linkedin.com/in/niltonrossetto**
+
+---
+
 # Current Learning Journey
 
 I'm currently studying:
@@ -100,13 +106,7 @@ For every topic I study, I try to include:
 - Building a complete study portfolio
 - Learning modern software development practices
 - Creating practical projects
-
----
-
-# Connect with Me
-
-- LinkedIn: **linkedin.com/in/niltonrossetto**
-
+  
 ---
 
 ## Thanks for visiting my profile!
