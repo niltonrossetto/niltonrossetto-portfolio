@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Nilton Rossetto
+# Hi, I'm Nilton Rossetto
 
-### Software Development Student | Systems Analysis and Development | Future Software Developer
+## Software Development Student | Tech Talent Acquisition Background | Future Software Developer
 
 Welcome to my GitHub!
 
 I'm currently pursuing an **Associate Degree in Systems Analysis and Development** and building my career in Software Development.
 
-After working in **Aviation** and **Human Resources**, I decided to transition into technology. Today I'm dedicated to learning, practicing, and developing projects that strengthen my technical skills while documenting my entire learning journey here on GitHub.
+After working in **Aviation** and **Tech Recruitment**, I decided to transition into **Software Development**. Today I'm dedicated to learning, practicing, and developing projects that strengthen my technical skills while documenting my entire learning journey here on GitHub.
 
 ---
 
-# 🚀 Current Learning Journey
+# Current Learning Journey
 
 I'm currently studying:
 
@@ -26,7 +26,7 @@ Every repository represents a part of my learning path, containing notes, exerci
 
 ---
 
-# 📂 Featured Repositories
+# Featured Repositories
 
 ## 🐍 Python Fundamentals
 Learning Python from the basics with notes, exercises, examples, and mini projects.
@@ -53,7 +53,7 @@ Database concepts, SQL queries, joins, aggregation, normalization, and relationa
 
 ---
 
-# 🎯 Goals
+# Goals
 
 - Build a strong Software Development foundation
 - Master modern development tools
@@ -64,7 +64,7 @@ Database concepts, SQL queries, joins, aggregation, normalization, and relationa
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 ## Languages
 - Python
@@ -80,7 +80,7 @@ Database concepts, SQL queries, joins, aggregation, normalization, and relationa
 
 ---
 
-# 📚 Study Method
+# Study Method
 
 For every topic I study, I try to include:
 
@@ -94,7 +94,7 @@ For every topic I study, I try to include:
 
 ---
 
-# 🌱 Currently Working On
+# Currently Working On
 
 - Improving programming skills
 - Building a complete study portfolio
@@ -103,12 +103,12 @@ For every topic I study, I try to include:
 
 ---
 
-# 📫 Connect with Me
+# Connect with Me
 
 - LinkedIn: **linkedin.com/in/niltonrossetto**
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+## Thanks for visiting my profile!
 
 I'm continuously learning and improving every day. Feel free to explore my repositories and follow my development journey.
