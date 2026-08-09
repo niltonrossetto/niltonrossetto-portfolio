@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nilton Rossetto
+# Hi, I'm Nilton Rossetto
 
 ## Software Development Student | Tech Talent Acquisition Background | Future Software Developer
 
@@ -12,23 +12,23 @@ I'm learning step by step, practicing what I study, and building projects to str
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/niltonrossetto](https://www.linkedin.com/in/niltonrossetto)
+- LinkedIn: [linkedin.com/in/niltonrossetto](https://www.linkedin.com/in/niltonrossetto)
 
 ---
 
-## 📚 Current Learning Journey
+## Current Learning Journey
 
 I'm currently studying:
 
-- 🐍 Python
-- 🗄️ SQL
-- 🌐 HTML5
-- 🎨 CSS3
-- 🔧 Git & GitHub
-- ☁️ Azure
-- 🤖 Artificial Intelligence
+- Python
+- SQL
+- HTML5
+- CSS3
+- Git & GitHub
+- Azure
+- Artificial Intelligence
 
 Every repository represents a part of my learning journey, containing notes, exercises, practical examples, documentation, and projects.
 
@@ -36,35 +36,35 @@ My goal is to build solid foundations first and gradually progress toward more a
 
 ---
 
-## ⭐ Featured Repositories
+## Featured Repositories
 
-### 🐍 Python Fundamentals
+### Python Fundamentals
 
 Learning Python from the basics with notes, exercises, practical examples, and mini projects.
 
-### 🔧 Git Fundamentals
+### Git Fundamentals
 
 Learning version control, Git commands, branching, GitHub workflows, and best practices.
 
-### 🌐 HTML Fundamentals
+### HTML Fundamentals
 
 Learning HTML structure, semantic HTML, forms, tables, accessibility, and web development foundations.
 
-### 🎨 CSS Fundamentals
+### CSS Fundamentals
 
 Learning layouts, Flexbox, Grid, animations, responsive design, and modern CSS techniques.
 
-### 🗄️ SQL Fundamentals
+### SQL Fundamentals
 
 Learning database concepts, SQL queries, joins, aggregation, normalization, and relational databases.
 
 ---
 
-## 🎓 Certificates & Courses
+## Certificates & Courses
 
 This section contains courses and professional certifications related to my technical development and learning journey.
 
-### 📚 Courses
+### Courses
 
 Completed courses and their certificates:
 
@@ -72,59 +72,59 @@ Completed courses and their certificates:
 
 More courses will be added as I continue learning and completing new training programs.
 
-### 🏆 Certifications
+### Certifications
 
 Professional technology certifications will be added here as I achieve them.
 
 ---
 
-## 🎯 Goals
+## Goals
 
-- 🎓 Build a strong foundation in Software Development
-- 🧰 Learn and master modern development tools
-- 💻 Build practical and real-world projects
-- 📖 Develop a solid technical knowledge base
-- 🌎 Contribute to Open Source projects in the future
-- 🚀 Continuously improve my programming and technology skills
-- 📈 Progress gradually from fundamentals to more advanced development
+- Build a strong foundation in Software Development
+- Learn and master modern development tools
+- Build practical and real-world projects
+- Develop a solid technical knowledge base
+- Contribute to Open Source projects in the future
+- Continuously improve my programming and technology skills
+- Progress gradually from fundamentals to more advanced development
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Languages
 
-- 🐍 Python
-- 🗄️ SQL
-- 🌐 HTML5
-- 🎨 CSS3
+- Python
+- SQL
+- HTML5
+- CSS3
 
 ### Tools
 
-- 🔧 Git
-- 🐙 GitHub
-- 💻 Visual Studio Code
-- ☁️ Azure
+- Git
+- GitHub
+- Visual Studio Code
+- Azure
 
 ---
 
-## 📖 Study Method
+## Study Method
 
 For every topic I study, I try to include:
 
-- 📝 Personal notes
-- 💡 Key concepts
-- 💻 Practical code examples
-- 🧪 Exercises
-- 📸 Screenshots when useful
-- 🚀 Mini projects
-- 📚 Documentation and reference materials
+- Personal notes
+- Key concepts
+- Practical code examples
+- Exercises
+- Screenshots when useful
+- Mini projects
+- Documentation and reference materials
 
 My goal is not simply to complete courses, but to understand the concepts, practice what I learn, and gradually turn knowledge into practical skills.
 
 ---
 
-## 🔨 Currently Working On
+## Currently Working On
 
 - Improving my programming fundamentals
 - Building my technical knowledge base
@@ -137,7 +137,7 @@ My goal is not simply to complete courses, but to understand the concepts, pract
 
 ---
 
-## 🎓 Education & Professional Background
+## Education & Professional Background
 
 ### Technology
 
@@ -164,7 +164,7 @@ I'm combining my experience in people and talent with my new technical backgroun
 
 ---
 
-## 📈 Progress
+## Progress
 
 This repository is continuously updated as I progress through my studies, practice new technologies, and develop new projects.
 
@@ -174,10 +174,10 @@ The goal is to continuously improve, transform knowledge into practical skills, 
 
 ---
 
-## 🚀 Thanks for Visiting!
+## Thanks for Visiting!
 
 I'm learning, practicing, and improving every day.
 
 Feel free to explore my repositories and follow my development journey.
 
-**One step at a time. One project at a time. 🚀**
+**One step at a time. One project at a time.**
