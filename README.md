@@ -14,7 +14,7 @@ I'm learning step by step, practicing what I study, and building projects to str
 
 ## Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/niltonrossetto](https://www.linkedin.com/in/niltonrossetto)
+- LinkedIn: [linkedin.com/in/niltonrossetto](https://www.linkedin.com/in/niltonrossetto)
 
 ---
 
