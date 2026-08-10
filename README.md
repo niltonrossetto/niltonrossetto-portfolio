@@ -24,7 +24,6 @@ My goal is to build a solid foundation in development, practice real-world proje
 | Course / Program | Institution | Status |
 |---|---|---|
 | Systems Analysis and Development | Universidade Católica de Brasília (UCB) | In progress (25–50%) |
-| Introduction to HTML5 | — | 🟢 |
 | Python | — | In progress |
 | CS50 | Harvard University (via Fundação Educar) | In progress |
 | Introduction to Data Science | FGV | In progress |
